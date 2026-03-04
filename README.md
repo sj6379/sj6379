@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sj6379
 - 👀 I’m interested in ... learning
-- 🌱 I’m currently learning ... front end development
+- 🌱 I’m currently vibe coding
 - 💞️ I’m looking to collaborate on ... projects
-- 📫 How to reach me ... 
+- 📫 How to reach me ... samueljacob637@gmail.com
 - 😄 Pronouns: ... it
 - ⚡ Fun fact: ...
 
